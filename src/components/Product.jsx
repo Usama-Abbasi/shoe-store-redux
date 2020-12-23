@@ -1,4 +1,4 @@
-import React,{useContext}from 'react'
+import React from 'react'
 import Product from '../json/shoe.json';
 import { Link} from 'react-router-dom';
 import {add} from '../Redux/Slice';

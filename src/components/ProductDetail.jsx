@@ -1,4 +1,4 @@
-import React,{useContext} from 'react';
+import React from 'react';
 import Products from '../json/shoe.json';
 import { useParams } from 'react-router-dom';
 import { Link } from 'react-router-dom';
